@@ -1,0 +1,15 @@
+{
+  "name": "Jenna Dean",
+  "website": "https://jennadean9.github.io/",
+  "linkedin": "https://www.linkedin.com/in/jennadean9/",
+  "github": "jennadean9",
+  "email": "hammad.malik@generalassemb.ly",
+  "proficientTechnologies": [
+    "Javascript",
+    "React",
+    "Node",
+    "Express",
+    "Mongodb"
+  ],
+  "otherSkills": ["Loving Dogs", "Hype Man", "EMT-B/Phlebotomist"]
+}
